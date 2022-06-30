@@ -12,7 +12,6 @@ This project is a test task for Flutter Developer position at Ropstam Solution.
 6.  APIs Calling with http
 
 ## App Screenshot
-
 <tr>
     <td>Login Screen </td>
      <td>HomePage Screen</td>
