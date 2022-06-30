@@ -12,13 +12,23 @@ This project is a test task for Flutter Developer position at Ropstam Solution.
 6.  APIs Calling with http
 
 ## App Screenshot
-<tr>
+  <tr>
     <td>Login Screen </td>
-     <td>HomePage Screen</td>
-     <td>Dialoge Box</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Sabahat06/ropstam/blob/master/Screenshot_1.jpg" width=220 height=450></td>
-    <td><img src="https://github.com/Sabahat06/ropstam/blob/master/Screenshot_2.jpg" width=220 height=450></td>
-    <td><img src="https://github.com/Sabahat06/ropstam/blob/master/Screenshot_3.jpg" width=220 height=450></td>
   </tr>
+
+  <tr>
+     <td>HomePage Screen</td>
+  </tr>
+  <tr>
+     <td><img src="https://github.com/Sabahat06/ropstam/blob/master/Screenshot_2.jpg" width=220 height=450></td>
+  </tr>
+
+  <tr>
+      <td>Dialoge Box</td>
+   </tr>
+   <tr>
+       <td><img src="https://github.com/Sabahat06/ropstam/blob/master/Screenshot_3.jpg" width=220 height=450></td>
+   </tr>
